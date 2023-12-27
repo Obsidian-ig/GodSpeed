@@ -1,0 +1,13 @@
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\ScannablePlayersModv1.dll
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\ScannablePlayersModv1.pdb
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\Newtonsoft.Json.dll
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\0Harmony.xml
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\BepInEx.xml
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\LethalCompanyMods.pdb
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\bin\Debug\MonoMod.Utils.xml
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\obj\Debug\reach.csproj.AssemblyReference.cache
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\obj\Debug\reach.csproj.CoreCompileInputs.cache
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\obj\Debug\reach.csproj.CopyComplete
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\obj\Debug\ScannablePlayersModv1.dll
+C:\Users\villo\Downloads\Reach\ScannablePlayers-main\obj\Debug\ScannablePlayersModv1.pdb
