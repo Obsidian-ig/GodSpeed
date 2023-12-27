@@ -1,7 +1,7 @@
 
 # Obsidians Fast Climb Mod
 
-This mod allows you to scale/climb in lethal company very fast.
+This mod allows you to run in lethal company very fast.
 
 
 
